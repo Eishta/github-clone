@@ -1,0 +1,42 @@
+.table-list {
+    display: table;
+    width: 100%;
+    color: #6a737d;
+    table-layout: fixed;
+    border-bottom: 1px solid #e1e4e8;
+    box-sizing: border-box;
+}
+
+ol, ul {
+    padding-left: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.table-list-cell {
+    position: relative;
+    display: table-cell;
+    padding: 8px 10px;
+    font-size: 12px;
+    vertical-align: top;
+    border-top: 1px solid #eaecef;
+}
+.table-list-cell img{
+    width: 48px;
+    height: 48px;
+}
+.list-item{
+    margin: 1em;
+}
+.avatar {
+    display: inline-block;
+    overflow: hidden;
+    line-height: 4;
+    vertical-align: text-bottom;
+    border-radius: 3px;
+}
+
+.username {
+    width: 100%;
+    font-weight: bold;
+}

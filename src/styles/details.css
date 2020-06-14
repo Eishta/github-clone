@@ -1,0 +1,23 @@
+.details{
+    display: inline-flex;
+}
+
+.repo-item {
+border: 0px;}
+.icon{
+    width: 16px;
+    height: 16px;
+    color: black;
+}
+.card {
+    width: 18rem;
+    border: 0px;
+}
+.card img {
+    border-radius: 20px;
+}
+@media (max-width: 768px) {
+    .details{
+        display: table;
+    }
+}
