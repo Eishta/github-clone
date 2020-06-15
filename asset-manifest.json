@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Eishta/github-clone/static/css/main.89e33527.chunk.css",
+    "main.js": "/Eishta/github-clone/static/js/main.e344c31f.chunk.js",
+    "main.js.map": "/Eishta/github-clone/static/js/main.e344c31f.chunk.js.map",
+    "runtime-main.js": "/Eishta/github-clone/static/js/runtime-main.0525dadf.js",
+    "runtime-main.js.map": "/Eishta/github-clone/static/js/runtime-main.0525dadf.js.map",
+    "static/css/2.4f1ed363.chunk.css": "/Eishta/github-clone/static/css/2.4f1ed363.chunk.css",
+    "static/js/2.318ffeac.chunk.js": "/Eishta/github-clone/static/js/2.318ffeac.chunk.js",
+    "static/js/2.318ffeac.chunk.js.map": "/Eishta/github-clone/static/js/2.318ffeac.chunk.js.map",
+    "index.html": "/Eishta/github-clone/index.html",
+    "precache-manifest.b50334bfb90a5dc9ea9a1675894d3457.js": "/Eishta/github-clone/precache-manifest.b50334bfb90a5dc9ea9a1675894d3457.js",
+    "service-worker.js": "/Eishta/github-clone/service-worker.js",
+    "static/css/2.4f1ed363.chunk.css.map": "/Eishta/github-clone/static/css/2.4f1ed363.chunk.css.map",
+    "static/css/main.89e33527.chunk.css.map": "/Eishta/github-clone/static/css/main.89e33527.chunk.css.map",
+    "static/js/2.318ffeac.chunk.js.LICENSE.txt": "/Eishta/github-clone/static/js/2.318ffeac.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/Eishta/github-clone/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0525dadf.js",
+    "static/css/2.4f1ed363.chunk.css",
+    "static/js/2.318ffeac.chunk.js",
+    "static/css/main.89e33527.chunk.css",
+    "static/js/main.e344c31f.chunk.js"
+  ]
+}
