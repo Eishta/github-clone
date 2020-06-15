@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/github-clone/static/css/main.d9ba936f.chunk.css",
-    "main.js": "/github-clone/static/js/main.9fd6b9c8.chunk.js",
-    "main.js.map": "/github-clone/static/js/main.9fd6b9c8.chunk.js.map",
+    "main.css": "/github-clone/static/css/main.66fa6e5e.chunk.css",
+    "main.js": "/github-clone/static/js/main.3b474b73.chunk.js",
+    "main.js.map": "/github-clone/static/js/main.3b474b73.chunk.js.map",
     "runtime-main.js": "/github-clone/static/js/runtime-main.9390faf6.js",
     "runtime-main.js.map": "/github-clone/static/js/runtime-main.9390faf6.js.map",
     "static/css/2.37152869.chunk.css": "/github-clone/static/css/2.37152869.chunk.css",
-    "static/js/2.318ffeac.chunk.js": "/github-clone/static/js/2.318ffeac.chunk.js",
-    "static/js/2.318ffeac.chunk.js.map": "/github-clone/static/js/2.318ffeac.chunk.js.map",
+    "static/js/2.8ed8ec6a.chunk.js": "/github-clone/static/js/2.8ed8ec6a.chunk.js",
+    "static/js/2.8ed8ec6a.chunk.js.map": "/github-clone/static/js/2.8ed8ec6a.chunk.js.map",
     "index.html": "/github-clone/index.html",
-    "precache-manifest.0c94eac3d86360e0b0ca7aa45dfb85d3.js": "/github-clone/precache-manifest.0c94eac3d86360e0b0ca7aa45dfb85d3.js",
+    "precache-manifest.ee00b6d629ff9869832403910911f5a5.js": "/github-clone/precache-manifest.ee00b6d629ff9869832403910911f5a5.js",
     "service-worker.js": "/github-clone/service-worker.js",
     "static/css/2.37152869.chunk.css.map": "/github-clone/static/css/2.37152869.chunk.css.map",
-    "static/css/main.d9ba936f.chunk.css.map": "/github-clone/static/css/main.d9ba936f.chunk.css.map",
-    "static/js/2.318ffeac.chunk.js.LICENSE.txt": "/github-clone/static/js/2.318ffeac.chunk.js.LICENSE.txt",
+    "static/css/main.66fa6e5e.chunk.css.map": "/github-clone/static/css/main.66fa6e5e.chunk.css.map",
+    "static/js/2.8ed8ec6a.chunk.js.LICENSE.txt": "/github-clone/static/js/2.8ed8ec6a.chunk.js.LICENSE.txt",
     "static/media/font-awesome.min.css": "/github-clone/static/media/fontawesome-webfont.fee66e71.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.9390faf6.js",
     "static/css/2.37152869.chunk.css",
-    "static/js/2.318ffeac.chunk.js",
-    "static/css/main.d9ba936f.chunk.css",
-    "static/js/main.9fd6b9c8.chunk.js"
+    "static/js/2.8ed8ec6a.chunk.js",
+    "static/css/main.66fa6e5e.chunk.css",
+    "static/js/main.3b474b73.chunk.js"
   ]
 }
